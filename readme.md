@@ -1,3 +1,13 @@
+# Stock Ranking — LSTM 股票价格预测与排名系统
+
+## 项目简介 (Project Overview)
+
+本项目使用 **LSTM（长短期记忆网络）** 对股票价格进行预测，并根据预期价格变化率对股票进行排名。系统包含完整的特征工程流水线、模型训练和推理模块。
+
+**技术栈：** Python, PyTorch, LSTM
+
+---
+
 # Stock Ranking — LSTM for Stock Price Prediction
 
 LSTM-based stock price prediction model for ranking stocks by expected price change rate.
